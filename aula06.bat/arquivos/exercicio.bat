@@ -2,7 +2,7 @@
 
 color 0A
 
-set data=%date:/=-%
+set data=%date:/=-% - %time:~0,5%
 title %data%
 set /p nome=Digite seu nome: 
 set /p sobrenome=Digite seu sobrenome: 
