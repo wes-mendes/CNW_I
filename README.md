@@ -1,3 +1,3 @@
 # CNW_I
 
-https://github.com/wes-mendes/CNW_I/calculadora_com_menu/
+https://github.com/wes-mendes/CNW_I/calculadora_com_menu/calc2.bat
